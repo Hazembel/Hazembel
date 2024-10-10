@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Hazem Bel (@Hazembel)
+### Hi there 👋, I'm Hazem (@Hazem)
   
 - 👀 I’m interested in coding, web development, and new technologies.
 - 🌱 I’m currently learning TypeScript, Python, and advanced React techniques.
